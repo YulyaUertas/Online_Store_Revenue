@@ -1,8 +1,15 @@
-# Testing-hypotheses-for-increasing-revenue-in-an-online-store-evaluating-the-results-of-an-A-B-test
+# Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста
 
-Using data from the online store to prioritize hypotheses and evaluate the results of A/B testing using various methods.
+## Задачи проекта
+Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку
+результатов A/B-тестирования различными методами
 
-Hypotheses were prioritized using the ICE and RICE frameworks. Then, an analysis of the results of the A/B test was conducted, 
-cumulative revenue and average order value (AOV) graphs were plotted, conversion rates were compared between groups,
-and statistical significance of differences in conversions and AOV was calculated using both raw and cleaned data. 
-Based on the analysis, a decision was made to discontinue the test as it was deemed impractical.
+## Описание проекта
+Проведена приоритизация гипотез по фреймворкам ICE и RICE. Затем провел анализ
+результатов A/B-теста, построил графики кумулятивной выручки, среднего чека,
+конверсии по группам, а затем посчитал статистическую значимость различий конверсий
+и средних чеков по сырым и очищенным данным. На основании анализа мной было
+принято решение о нецелесообразности дальнейшего проведения теста.
+
+## Навыки и инструменты 
+А/В-тестирование, Matplotlib, Scipy
